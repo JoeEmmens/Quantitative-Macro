@@ -1,6 +1,10 @@
 My final project for the Quant Macro course 19-20.
 
+The final project is titled:
+"Does one need money to make money?" and is saved here under the same title.
+
 I investigate the endogenous relationship between innovation and inequality using a discrete value function iteration model. Literature shows
 that innovation concerntrates wealth in the hands of entrepreneurs since poorer agents are exluded by a minimum networth requirement and a higher 
 propensity to save amongst entrepreneurs. I replicate the need for a minimum asset level to enter the entrepreneurial sector and show that 
 shocking the economy with an exogenous increase in the persistance of idea shocks increases inequality and reduces innovation. 
+
